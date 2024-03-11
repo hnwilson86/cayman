@@ -99,7 +99,7 @@ end
 ### Large image
 
 ![Zebra](images/zebra.jpg)
-
+![tigger](images/tigger.jpg)
 
 ### Definition lists can be used with HTML syntax.
 
