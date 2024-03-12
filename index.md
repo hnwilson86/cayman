@@ -1,11 +1,9 @@
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [https://www.google.com]
 [https://www.ksl.com]
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
