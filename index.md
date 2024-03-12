@@ -42,16 +42,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 | american        | sour cry baby gum        |caramel apple dump cake       |
 | thai            | nerds gummies            |homemade choco oreo milkshakes|
 
-### There's a horizontal rule below this.
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
 ### Large image
 
