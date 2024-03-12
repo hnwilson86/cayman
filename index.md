@@ -34,12 +34,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Favorite Food   | Favorite Candies         | Favorite Desserts            |
+|:----------------|:-------------------------|:-----------------------------|
+| mexican         | Sour warheads            |homemade strawberry lasagna   |  
+| italian         | milk chocolate           |homemade german choco cakes   |
+| american        | sour cry baby gum        |caramel apple dump cake       |
+| thai            | nerds gummies            |homemade choco oreo milkshakes|
 
 ### There's a horizontal rule below this.
 
