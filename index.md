@@ -2,6 +2,7 @@
 
 
 [https://www.google.com]
+
 [https://www.ksl.com]
 
 There should be whitespace between paragraphs.
