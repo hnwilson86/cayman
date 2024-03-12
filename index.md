@@ -1,39 +1,14 @@
 ---
 
 
-[https://www.google.com]
+[Google](https://www.google.com)
 
-[https://www.ksl.com]
+[KSL](https://www.ksl.com)
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My name is Holly Nicole Wilson. I was born and raised in Moab. Growing up in Moab was one of the best experiences anyone could ever imagine. My childhood was filled with lots of joyful moments and fun camping trips. My parents took us camping every weekend during the season. We never sat home unless it was snowing. We would explore the Book Cliffs on our mules for weeks at a time or enjoy the heat of the desert called Beef Basin looking for arrowheads, and Indain ruins. I feel, if I had grown up in the city my life would be different than the life I was given to enjoy. Of course coming from a small town comes with its challenges. Those challenges I would never trade it in for the world.  
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
 
 | Favorite Food   | Favorite Candies         | Favorite Desserts            |
 |:----------------|:-------------------------|:-----------------------------|
@@ -44,12 +19,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 
-### Large image
+
 
 ![Zebra](images/zebra.jpg)
 ![tigger](images/tigger.jpg)
 
-### Definition lists can be used with HTML syntax.
+
 
 <dl>
 <dt>Name</dt>
@@ -61,9 +36,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
+
 The final element.
 ```
